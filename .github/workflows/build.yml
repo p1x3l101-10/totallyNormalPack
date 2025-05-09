@@ -25,5 +25,4 @@ jobs:
       with:
         name: Bundles
         path: |
-          curseforge.zip
           prismlauncher.zip

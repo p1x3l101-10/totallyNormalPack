@@ -27,12 +27,10 @@ jobs:
       with:
         name: Bundles
         path: |
-          curseforge.zip
           prismlauncher.zip
     - name: Release
       uses: softprops/action-gh-release@v2
       with:
         files: |
-          curseforge.zip
           prismlauncher.zip
         make_latest: true
