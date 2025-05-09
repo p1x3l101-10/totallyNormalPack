@@ -1,0 +1,14 @@
+name = "Packwiz Template"
+version = "0.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "11a2405fae756bce10b2b2d1bcc846f5844685eedaaf7fa55d8d17ebe3b74f38"
+
+[versions]
+forge = "14.23.5.2860"
+lwjgl3 = "3.2.2"
+minecraft = "1.12.2"
+unsup = "1.1-pre9"

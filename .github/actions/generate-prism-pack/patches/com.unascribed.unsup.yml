@@ -1,0 +1,7 @@
+formatVersion: 1
+name: unsup
+uid: com.unascribed.unsup
+version: $UNSUP_VERSION
++agents:
+  - name: com.unascribed:unsup:$UNSUP_VERSION
+    url: https://repo.sleeping.town

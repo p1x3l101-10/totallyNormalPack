@@ -1,0 +1,25 @@
+hash-format = "sha256"
+
+[[files]]
+file = "autosign/hooks/pre-commit"
+hash = "c4418d90aaa7f236623d1a68a506630ea197f06a36f789a6d0defa5bc55272fa"
+
+[[files]]
+file = "autosign/init"
+hash = "79d540dfb08bf3c968eee57c3e24742de6411653b7cd70a256e5f49c994429d8"
+
+[[files]]
+file = "autosign/signingkey.pub"
+hash = "db1059e40062a06fdd42eaee5836c364b6ba6ddd35dd817f7dee700cdd99d32a"
+
+[[files]]
+file = "autosign/signingkey.sec"
+hash = "9e43629d841877263b4779761afcc9652242914e04c68020f0eab59fcae3c30b"
+
+[[files]]
+file = "unsup.ini"
+hash = "f44bb1b763109a8a4f836f2bdc192b8350e673264d843a305b32e0bfcbd8ff8e"
+
+[[files]]
+file = "unsup.toml"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"

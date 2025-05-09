@@ -1,0 +1,50 @@
+name: Install PackWiz
+description: Installs packwiz via go install
+inputs:
+  version:
+    description: Version of PackWiz to install
+    required: false
+    default: latest
+  packToml:
+    description: pack.toml file for creating a cache
+    required: false
+    default: ./pack.toml
+runs:
+  using: composite
+  steps:
+    - name: Parse toml for pack-format
+      uses: SebRollen/toml-action@v1.2.0
+      id: read_toml
+      with:
+        file: ${{ inputs.packToml }}
+        field: 'pack-format'
+    - name: Restore cached packwiz
+      id: packwiz-cache-restore
+      uses: actions/cache/restore@v4
+      with:
+        path: |
+          ~/.cache/go-build
+          ~/go/pkg/mod
+          ~/go/bin
+        key: ${{ runner.os }}-packwiz-${{ steps.read_toml.outputs.value }}
+    - name: Install go
+      uses: actions/setup-go@v5
+      if: ${{ ! steps.packwiz-cache-restore.outputs.cache-hit }}
+    - name: Install packwiz
+      run: go install github.com/packwiz/packwiz@latest
+      shell: bash
+      if: ${{ ! steps.packwiz-cache-restore.outputs.cache-hit }}
+    - name: Cache installation
+      uses: actions/cache@v4
+      with:
+        path: |
+          ~/.cache/go-build
+          ~/go/pkg/mod
+          ~/go/bin
+        key: ${{ runner.os }}-packwiz-${{ steps.read_toml.outputs.value }}
+        restore-keys: |
+          ${{ runner.os }}-packwiz-
+      if: ${{ ! steps.packwiz-cache-restore.outputs.cache-hit }}
+    - name: Add go bin to PATH
+      run: echo "$HOME/go/bin" >> $GITHUB_PATH
+      shell: bash
