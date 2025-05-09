@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/sk4iFZGy/versions/Ad77N3iX/remove-terralith-intro-message-1.1.jar"
-hash-format = "sha512"
-hash = "62391dc2948f14ea0bebab89bdd88bf768bacf458a1832dcd53f95b709c1caf3dde3470cb5b12f3efe5d6904c72410452c56fce952b03f474d9d7a5dc932dfbb"
+hash-format = "sha256"
+hash = "15412603b8090e1ca79a2b5e52b03d2f441a6e65d5729b525f991a1d2acd5498"
 
 [update]
 [update.modrinth]

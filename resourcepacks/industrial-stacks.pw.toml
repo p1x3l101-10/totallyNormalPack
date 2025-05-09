@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/NDJ173b9/versions/UNU6qa2V/industrialstacks.zip"
-hash-format = "sha512"
-hash = "b2d931b2153577e8a2fbcccd8c743fcef3f751054c314d56b04b0c428e1779506e4f7c52f729fea919398fcdb74062dc87595facc46f8ace5b6f1bc9527fca63"
+hash-format = "sha256"
+hash = "20b2e30212efd0c79073ffdd58d4296966099af17b0a426926e0ee7d7570a367"
 
 [update]
 [update.modrinth]

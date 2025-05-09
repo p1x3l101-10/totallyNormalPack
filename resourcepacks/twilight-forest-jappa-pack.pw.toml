@@ -3,8 +3,8 @@ filename = "Twilight JAPPA Pack 1.0.0.zip"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0e2c8c275fe53b47daa487fc564905170fd8dbbd"
+hash-format = "sha256"
+hash = "fec80d7e951428d7ca4e1c268de7fda93ecb5bb8af7452498388c7ea23cd1d2f"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "ImmersiveGeology-0.6.13-b66.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2f343e1736d2d372c4f4acdf42a1ca864da5bed6"
+hash-format = "sha256"
+hash = "118ba88a7a833e056be582156bec9c1b65dea5a2223320beb79e809adf551aab"
 mode = "metadata:curseforge"
 
 [update]

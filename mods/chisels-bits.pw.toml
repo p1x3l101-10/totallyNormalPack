@@ -3,8 +3,8 @@ filename = "chisels-and-bits-forge-1.4.148.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "bff153dc16b26a0d4f0e8ccc27b2e0fc2dc89355"
+hash-format = "sha256"
+hash = "2e443331c65e32faad9fe96063057754c54216614a9ace10c178d8a3697ff1e1"
 mode = "metadata:curseforge"
 
 [update]

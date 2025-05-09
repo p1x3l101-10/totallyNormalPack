@@ -3,8 +3,8 @@ filename = "theurgy-1.20.1-1.23.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ef7adc9aa1b40775e65586b30a0a0d4832aa70de"
+hash-format = "sha256"
+hash = "fd0ef88c30e52969192db27a22492f06ebc24f9942f3e8c8df03184f088f5421"
 mode = "metadata:curseforge"
 
 [update]

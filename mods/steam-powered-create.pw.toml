@@ -3,8 +3,8 @@ filename = "steampowered-1.20.1-3.0.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "426576d8f1977bf9af0c81356b3c15cdb756a224"
+hash-format = "sha256"
+hash = "3a9825701ca0d6418f27af1076ac801f27a168abdf1fc45f1519919945610055"
 mode = "metadata:curseforge"
 
 [update]

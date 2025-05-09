@@ -3,8 +3,8 @@ filename = "modonomicon-1.20.1-forge-1.77.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6dc377631b94d7ea0996c22ecf2bde1ce5b55a7a"
+hash-format = "sha256"
+hash = "4d1b3aff699ff526b54bb4f6bf963b633994b00a0f72f40755f1cf12306d0689"
 mode = "metadata:curseforge"
 
 [update]

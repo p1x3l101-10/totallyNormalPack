@@ -3,8 +3,8 @@ filename = "EMIEnchants-forge-1.19.3-1.20.4-1.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d01c60fa55b9bc0700c23b04afc1fb43d579ccc1"
+hash-format = "sha256"
+hash = "71c87be32d2384e3b71f27bece40eb8872f41bf40fc4063950d805342e6e4414"
 mode = "metadata:curseforge"
 
 [update]

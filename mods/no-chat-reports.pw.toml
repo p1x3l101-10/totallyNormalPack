@@ -3,8 +3,8 @@ filename = "NoChatReports-FORGE-1.20.1-v2.2.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "069396e689ae887d065c8d61b7945e685fbcc65b"
+hash-format = "sha256"
+hash = "ef7fa5096dfd492c3d3ae7228888ca4b92ce07d9b8e302297ceb2ceb1f8d238c"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "tfmg-0.9.3b-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6ae7739062c925eed1c039f4da837f4e120b0f9a"
+hash-format = "sha256"
+hash = "dcdf61df734d3c25f180f4b3f69fc299c8c01b53123bfdb711dac8e61aedb430"
 mode = "metadata:curseforge"
 
 [update]

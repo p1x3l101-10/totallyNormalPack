@@ -3,8 +3,8 @@ filename = "Create_Style_Hopper_24_5_29.zip"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0b219947e6a5ed43eadd05b24163b8282fcd902f"
+hash-format = "sha256"
+hash = "358edcfdb982c0ac40d4e3f9db3a6835c4b55e5833306f9ebbec25a127b2849d"
 mode = "metadata:curseforge"
 
 [update]

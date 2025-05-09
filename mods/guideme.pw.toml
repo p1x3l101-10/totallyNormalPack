@@ -3,8 +3,8 @@ filename = "guideme-20.1.7.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "fc039093c479b3632b1ab60ea503e79b76b686f9"
+hash-format = "sha256"
+hash = "f01612808bbd8ea469de26c1970fe6dfb71f4a1fb78311155342fd048a137e95"
 mode = "metadata:curseforge"
 
 [update]

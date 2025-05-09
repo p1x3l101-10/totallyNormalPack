@@ -3,8 +3,8 @@ filename = "create_power_loader-2.0.0-mc1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9647d15c4b90d2887bea286930c8b7d4fde58744"
+hash-format = "sha256"
+hash = "2eb8c72312d3bc699ce0efeffa5676f9f198c1862a70aed797c9db61d1ec5761"
 mode = "metadata:curseforge"
 
 [update]

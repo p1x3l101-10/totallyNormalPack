@@ -3,8 +3,8 @@ filename = "Metal Pipe.zip"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "22cfe14262e5471b5aed175aec234b164e03bcab"
+hash-format = "sha256"
+hash = "c39685ef71c3b3e9e5fe1d80b713f56ed06ebdfa4fe7997d26519c2e93ed3e58"
 mode = "metadata:curseforge"
 
 [update]

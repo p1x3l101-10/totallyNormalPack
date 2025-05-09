@@ -3,8 +3,8 @@ filename = "ImmersiveIndustry-1.20.1-0.2.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "98a7d97d9ad9652c31fc5c132dde69d467dd7175"
+hash-format = "sha256"
+hash = "96a3ed627e2c09746538affa5bb51e24c2664e7c27e69e485c05ece30d4e371f"
 mode = "metadata:curseforge"
 
 [update]

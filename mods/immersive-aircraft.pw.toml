@@ -3,8 +3,8 @@ filename = "immersive_aircraft-1.2.2+1.20.1-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5f1c9fb4a9825557a951bd5f97465fe44fc01df7"
+hash-format = "sha256"
+hash = "84e1e87d32e4a8b36cd9529efcb633c2a8c8c189d15e61a7b422310047566b89"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "create-1.20.1-6.0.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1b57eab3600805d705bb64933bc0cb7836b41886"
+hash-format = "sha256"
+hash = "56aed178aca3c466ec556c9b2dc43616f1a131eb30e70c61c0a094f6a60ac588"
 mode = "metadata:curseforge"
 
 [update]

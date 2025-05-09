@@ -3,8 +3,8 @@ filename = "Updated_Engineering_v1.7.zip"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "cc84bf8e9926d1c6cfcc76e1d1526345ff3e9a2f"
+hash-format = "sha256"
+hash = "b3d6ebd50f5ac464be7695a97072fbb85927bf0ac2fbf741d011881347332a5d"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "CWSM V-Sides 1.20.1 1.1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c711891fe23192f257eb5a2a4bd39d23be26ac8d"
+hash-format = "sha256"
+hash = "9bf7cfa1c328b2eba282f72933574934ce8bf4d307a1e6828dfacc533e41912a"
 mode = "metadata:curseforge"
 
 [update]

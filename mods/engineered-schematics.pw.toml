@@ -3,8 +3,8 @@ filename = "EngineeredSchematics-1.2.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1d4b85c5e1c60c3cd0a598a5e577cfbc93f1333e"
+hash-format = "sha256"
+hash = "312d2e9d0a964040c219fa275b95857e98f041bf23e71785347dc6ec223b6764"
 mode = "metadata:curseforge"
 
 [update]

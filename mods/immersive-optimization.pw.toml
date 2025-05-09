@@ -3,8 +3,8 @@ filename = "immersive_optimization-forge-1.20.1-0.0.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3de7b2a3b58741e0790f4ba94fbd941c3608a06f"
+hash-format = "sha256"
+hash = "a10e82fa279c6b649b11f59e415e3e4df173ea44ec29f1c87bf9ceccdb43a3d6"
 mode = "metadata:curseforge"
 
 [update]
