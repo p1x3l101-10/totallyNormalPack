@@ -1,0 +1,13 @@
+name = "Metal Pipe"
+filename = "Metal Pipe.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "22cfe14262e5471b5aed175aec234b164e03bcab"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4628542
+project-id = 885286

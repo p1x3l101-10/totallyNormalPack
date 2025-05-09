@@ -376,8 +376,38 @@ hash = "7dbe376c64d52ddc3e52ca6ce6b07d8c5d76bf9ef68d58267bb9e9c6d8fb2c09"
 metafile = true
 
 [[files]]
+file = "resourcepacks/create-immersive-aircrafts-resource-pack.pw.toml"
+hash = "f3a4bb5d89c7d9a554aca934d729611a3bad37c01ab374caf7af6cbc1de4fab0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-sophisticated-backpacks.pw.toml"
+hash = "9894340781fca02078877ff3ee942b1a66e5387aedab8a0d99ab69f4904cf0c5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-style-hopper.pw.toml"
+hash = "374fc3b531d1cff3d9dcafc73103797e44c5e27bce2ab414fab2695bde9d9284"
+metafile = true
+
+[[files]]
+file = "resourcepacks/industrial-stacks.pw.toml"
+hash = "634e9e80586287c7f15672177239880d7dbb346534ac4dccca7fa5477904cd24"
+metafile = true
+
+[[files]]
+file = "resourcepacks/metal-pipe.pw.toml"
+hash = "7921b9b1171ee4ae19c22bcfbc1c44f93ad534aed4785fac037870b7ccac6c52"
+metafile = true
+
+[[files]]
 file = "resourcepacks/twilight-forest-jappa-pack.pw.toml"
 hash = "fbb4644fe0733d7c9662931679559ad5bd6b09c616fec2e46c6aeb328cb053f9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/updated-engineering.pw.toml"
+hash = "fc86015529a4590ea914561127393074d3d358f5fe27af5dcde80aa1ca38a005"
 metafile = true
 
 [[files]]
