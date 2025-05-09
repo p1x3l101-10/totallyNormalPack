@@ -7,3 +7,6 @@ README.md
 TODO.md
 .DS_Store
 .github/**
+autosign/**
+unsup.toml
+unsup.sig

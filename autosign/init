@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+
+hooks=(
+  'pre-commit'
+)
+
+GIT_ROOT="$(git rev-parse --show-toplevel)"
+
+for hook in "${hooks[@]}"; do
+  if [[ -f "$GIT_ROOT/.git/hooks/$hook" ]]; then
+    echo "Git hook for $hook is already registered! Skipping hook..."
+  else
+    ln -vs "$GIT_ROOT/autosign/hooks/$hook" "$GIT_ROOT/.git/hooks/$hook"
+    chmod +x "$GIT_ROOT/.git/hooks/$hook"
+  fi
+done
