@@ -46,11 +46,6 @@ hash = "db01ff332b926267e5343601473582e51cddd1dff7c0bfef0809dc9802c07480"
 metafile = true
 
 [[files]]
-file = "mods/command-tool-expansion.pw.toml"
-hash = "cef55e6fecfc37630debd022144f94d04e108de28af2dd9fe8677d37805c40e4"
-metafile = true
-
-[[files]]
 file = "mods/continents.pw.toml"
 hash = "d6da3d9e4834b857398f1e50bcaddd5b2a47ee1be0164adc9bc8fd7be3534599"
 metafile = true
@@ -378,11 +373,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/create-immersive-aircrafts-resource-pack.pw.toml"
 hash = "f3a4bb5d89c7d9a554aca934d729611a3bad37c01ab374caf7af6cbc1de4fab0"
-metafile = true
-
-[[files]]
-file = "resourcepacks/create-sophisticated-backpacks.pw.toml"
-hash = "9894340781fca02078877ff3ee942b1a66e5387aedab8a0d99ab69f4904cf0c5"
 metafile = true
 
 [[files]]
