@@ -1,4 +1,4 @@
-name = "Packwiz Template"
+name = "An pack"
 version = "0.0.0"
 pack-format = "packwiz:1.1.0"
 
@@ -8,7 +8,7 @@ hash-format = "sha256"
 hash = "fc4a5aec42369c1db790c074b327fd8fe888a4e1a66505d199818398cddbcca1"
 
 [versions]
-forge = "14.23.5.2860"
-lwjgl3 = "3.2.2"
-minecraft = "1.12.2"
-unsup = "1.1-pre9"
+forge = "47.4.0"
+lwjgl3 = "3.3.1"
+minecraft = "1.20.1"
+unsup = "1.1-beta1"
