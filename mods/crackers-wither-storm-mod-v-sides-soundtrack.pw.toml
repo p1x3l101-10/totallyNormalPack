@@ -1,0 +1,13 @@
+name = "Cracker's Wither Storm Mod: V-Sides Soundtrack"
+filename = "CWSM V-Sides 1.20.1 1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c711891fe23192f257eb5a2a4bd39d23be26ac8d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6147120
+project-id = 993053
