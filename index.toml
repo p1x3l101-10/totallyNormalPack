@@ -286,6 +286,11 @@ hash = "7650bde6226c1709f24307c99ce6fe313878bbb3f437e2ffb12c2f280d46889c"
 metafile = true
 
 [[files]]
+file = "mods/paranoia.pw.toml"
+hash = "a1b1c52fc05c6043741b87cd5d2c80b6fa1f52038dedc9ec95ce1ac7f6ced9d5"
+metafile = true
+
+[[files]]
 file = "mods/psi.pw.toml"
 hash = "2e36227071eb5c8a9cd2f4168a6be052ef32d8cd65284ecfdcb554066e6962c4"
 metafile = true
@@ -293,6 +298,11 @@ metafile = true
 [[files]]
 file = "mods/remove-terralith-intro-message.pw.toml"
 hash = "fe46427c24436543441ad99c73bdf666db208f54594b607499d361ef84674833"
+metafile = true
+
+[[files]]
+file = "mods/schizophrenia.pw.toml"
+hash = "22b96e9d27197380d6bb02452430ac6993953ea6188009e536b9f1a59ce6aaa1"
 metafile = true
 
 [[files]]

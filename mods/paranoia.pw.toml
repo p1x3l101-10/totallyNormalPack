@@ -1,0 +1,13 @@
+name = "Paranoia (Horror)"
+filename = "Paranoia-Forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1Gvs6BYH/versions/AZBFJxnq/Paranoia-Forge-1.20.1.jar"
+hash-format = "sha256"
+hash = "2ee7b852ccacc957621899862c8e80f82de3c7e236b85086c28cdb8fad7933e9"
+
+[update]
+[update.modrinth]
+mod-id = "1Gvs6BYH"
+version = "AZBFJxnq"

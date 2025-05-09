@@ -1,0 +1,13 @@
+name = "Schizophrenia"
+filename = "schizophrenia-1.5.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "9b1240d65b0ca0c0a1118f3d0976bdd122a34561994cded065797f33982b45b1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6419167
+project-id = 1223158
